@@ -123,7 +123,7 @@ Para executar o projeto basta seguir os passos abaixo.
 1. Clone o repositório e abra a pasta dele:
 
 ```shell
-$ git clone https://github.com/EduSouza-programmer/challenge_zapt_refactory-Edu_Souza 
+$ git clone https://github.com/EduSouza-programmer/challenge_tractian-Edu_Souza 
 ```
 
 2. Instale as dependência com `yarn` ou `npm`:
@@ -153,12 +153,12 @@ $ yarn storybook
 
 Foi enriquecedor esse desafio, fiquei impressionado com a proposta da Tractian, sou também técnico eletrista e migrei de profissão a dois anos atrás, mas confesso que fiquei curioso com a tecnologia. Espero muito poder fazer parte da equipe. Mais uma vez, obrigado pela oportunidade! Abaixo o link para o deploy :tada:. 
 
-Acesse o deploy do projeto [aqui](https://challenge-zapt-refactory-edu-souza-deploy-fm6pmtnhw.vercel.app/).
+Acesse o deploy do projeto [aqui](https://challenge-tractian-edu-souza-deploy.vercel.app/).
 
 #### Revisão :beers:
 
 Para documentação utilizei storybook, para os testes, jest com coverage lcov-report, metodologia ágil, kanban.
-Acesse o deploy do storybook [aqui](https://edu-zapt-storybook.netlify.app/?path=/story/components-userfeedbackbase--default). 
+Acesse o deploy do storybook [aqui](https://edu-tractian-storybook.netlify.app/?path=/story/page-landingpage--mobile). 
 
 <br/>
 
