@@ -36,7 +36,7 @@ function SectionHero({
               src={image.src}
               alt={image.alt}
             />
-            {/*   <ImageHero isAnimation={isAnimation} /> */}
+            {/* <ImageHero isAnimation={isAnimation} /> */}
           </S.WrapperImageHero>
 
           <S.WrapperContent>

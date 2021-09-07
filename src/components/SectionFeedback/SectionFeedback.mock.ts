@@ -7,9 +7,9 @@ export default {
     {
       user: {
         image: {
-          src: "./img/userFeedback/eduarda.png",
+          src: "/img/userFeedback/eduarda.png",
           alt: "",
-          dataBlur: "./img/userFeedback/eduarda.png",
+          dataBlur: "/img/userFeedback/eduarda.png",
         },
         size: "small",
         borderColor: "blue",
@@ -26,9 +26,9 @@ export default {
     {
       user: {
         image: {
-          src: "./img/userFeedback/rene.png",
+          src: "/img/userFeedback/rene.png",
           alt: "",
-          dataBlur: "./img/userFeedback/rene.png",
+          dataBlur: "/img/userFeedback/rene.png",
         },
         size: "small",
         borderColor: "blue",
@@ -45,9 +45,9 @@ export default {
     {
       user: {
         image: {
-          src: "./img/userFeedback/pedro.png",
+          src: "/img/userFeedback/pedro.png",
           alt: "",
-          dataBlur: "./img/userFeedback/pedro.png",
+          dataBlur: "/img/userFeedback/pedro.png",
         },
         size: "small",
         borderColor: "blue",
@@ -64,9 +64,9 @@ export default {
     {
       user: {
         image: {
-          src: "./img/userFeedback/gustavo.png",
+          src: "/img/userFeedback/gustavo.png",
           alt: "",
-          dataBlur: "./img/userFeedback/gustavo.png",
+          dataBlur: "/img/userFeedback/gustavo.png",
         },
         size: "small",
         borderColor: "blue",
@@ -83,9 +83,9 @@ export default {
     {
       user: {
         image: {
-          src: "./img/userFeedback/avatar_1.jpg",
+          src: "/img/userFeedback/avatar_1.jpg",
           alt: "",
-          dataBlur: "./img/userFeedback/avatar_1.jpg",
+          dataBlur: "/img/userFeedback/avatar_1.jpg",
         },
         size: "small",
         borderColor: "blue",
@@ -102,9 +102,9 @@ export default {
     {
       user: {
         image: {
-          src: "./img/userFeedback/eduardo_souza.png",
+          src: "/img/userFeedback/eduardo_souza.png",
           alt: "",
-          dataBlur: "./img/userFeedback/eduardo_souza.png",
+          dataBlur: "/img/userFeedback/eduardo_souza.png",
         },
         size: "small",
         borderColor: "blue",
