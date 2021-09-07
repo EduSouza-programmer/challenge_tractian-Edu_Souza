@@ -28,7 +28,14 @@ function SectionHero({
         </S.WrapperLogo>
         <S.Main>
           <S.WrapperImageHero>
-            <Image width="1000" height="1000" src={image.src} alt={image.alt} />
+            <Image
+              blurDataURL={image.dataBlur!}
+              placeholder="blur"
+              width="1000"
+              height="1000"
+              src={image.src}
+              alt={image.alt}
+            />
             {/*   <ImageHero isAnimation={isAnimation} /> */}
           </S.WrapperImageHero>
 
