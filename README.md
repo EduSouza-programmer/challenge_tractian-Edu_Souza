@@ -66,7 +66,7 @@ Abaixo segue os links. :smile:
   <p align=center >
     <img height="235px"  src="./public/img/readme/mobile1.gif"> &nbsp;  
     <img height="210px"  src="./public/img/readme/home_desktop2.gif"> &nbsp;
-    <img height="235px"  src="./public/img/readme/mobile2.gif">
+    <img height="235px"  src="./public/img/readme/mobile2.gif"> &nbsp; &nbsp;
     <img height="210px"  src="./public/img/readme/home_desktop3.gif"> 
   
   </p>
@@ -75,8 +75,8 @@ Abaixo segue os links. :smile:
 
   <p align=center>Page overview</p>
   <p align=center >
-    <img height="250px"  src="./public/img/readme/overview_desktop.png"> &nbsp; &nbsp; 
-    <img height="285px"  src="./public/img/readme/overview_mobile.png"> &nbsp; &nbsp;
+    <img height="350px"  src="./public/img/readme/overview_desktop.png"> &nbsp; &nbsp; 
+    <img height="385px"  src="./public/img/readme/overview_mobile.png"> &nbsp; &nbsp;
   </p>
 </details>
 
