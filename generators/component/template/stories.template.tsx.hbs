@@ -1,0 +1,68 @@
+import { Story, Meta } from "@storybook/react/types-6-0";
+import styled from "styled-components";
+import { StoryFnReactReturnType } from "@storybook/react/dist/ts3.9/client/preview/types";
+
+import { details, options } from "@/utils/storybook/storybook.helpers";
+import theme from "@/styles/themes/main.theme";
+
+import {{pascalCase name}} from ".";
+import { {{pascalCase name}}Props } from "./{{pascalCase name}}.types";
+
+const WrapperCenter = styled.div`
+  display: grid;
+  align-items: center;
+  margin: 0 auto;
+  height: 100vh;
+`;
+
+const defaultDecorator = (Story: Story): StoryFnReactReturnType => (
+  <WrapperCenter>
+    <Story />
+  </WrapperCenter>
+);
+
+const { modifiers } = theme;
+
+export default {
+  title: "{{pascalCase name}}",
+  component: {{pascalCase name}},
+  argTypes: {
+    example: {
+      description: "",
+      options: options(modifiers),
+      control: { type: "boolean" },
+
+      table: {
+        category: "choices",
+        type: {
+          summary: "",
+          detail: details(modifiers),
+        },
+      },
+    },
+  },
+  args: {
+    example: true,
+  },
+  parameters: {
+    viewport: {
+      defaultViewport: "mobile1",
+    },
+    backgrounds: {
+      default: "dark",
+    },
+    layout: "fullscreen",
+    controls: { hideNoControlsWarning: true, sort: "requiredFirst" },
+    docs: {
+      source: {
+        type: "code",
+      },
+      description: {
+        component: "Lets define the story for our _{{pascalCase name}}_ component, good read.",
+      },
+    },
+  },
+  decorators: [defaultDecorator],
+} as Meta<{{pascalCase name}}Props>;
+
+export const Default: Story<{{pascalCase name}}Props> = (args) => <{{pascalCase name}} {...args} />;

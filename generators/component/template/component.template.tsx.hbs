@@ -1,0 +1,12 @@
+import { {{pascalCase name}}Props } from "./{{pascalCase name}}.types";
+import * as S from "./{{pascalCase name}}.styles";
+
+function {{pascalCase name}}({ example, ...props }: {{pascalCase name}}Props) {
+  return (
+    <S.Wrapper example={example} {...props}>
+      <h1>{{name}}</h1>
+    </S.Wrapper>
+  );
+}
+
+export default {{pascalCase name}};

@@ -1,0 +1,16 @@
+import styled, { css, DefaultTheme } from "styled-components";
+
+import { WrapperProps } from "./{{pascalCase name}}.types";
+
+export const modifiers = {
+  example: (theme: DefaultTheme) => css`
+    color: ${theme.palette.text.white.main};
+  `,
+} as const;
+
+export const Wrapper = styled.div<WrapperProps>`
+  ${({ theme, example }) => css`
+    background-color: ${theme.palette.page.primary.main};
+    ${example && modifiers.example(theme)}
+  `}
+`;

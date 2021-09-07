@@ -1,0 +1,9 @@
+import { HtmlHTMLAttributes } from "react";
+
+type Attributes = Pick<HtmlHTMLAttributes<HTMLDivElement>, "className">;
+
+export type {{pascalCase name}}Props = {
+  example?: boolean;
+} & Attributes;
+
+export type WrapperProps = Pick<{{pascalCase name}}Props, "example">;

@@ -1,0 +1,31 @@
+import { screen } from "@testing-library/react";
+
+import { renderWithTheme } from "@/utils/tests/tests.helpers";
+// import { mediaQueries } from "@/utils/theme/theme.helpers";
+
+// import theme from "@/styles/themes/main.theme";
+
+import {{pascalCase name}} from ".";
+
+describe("<{{pascalCase name}} />", () => {
+  describe("|-html attributes general features-|", () => {
+    describe("'className' prop features", () => {
+      it("should render with className when passed", () => {
+        const { container } = renderWithTheme(<{{pascalCase name}} className="myClass" />);
+
+        expect(container.firstElementChild).toHaveClass("myClass");
+        expect(container.firstElementChild?.className).toContain("myClass");
+      });
+    });
+  });
+
+  describe("'example' prop features", () => {
+    it("should render the heading", () => {
+      renderWithTheme(<{{pascalCase name}} />);
+
+      expect(
+        screen.getByRole("heading", { name: /Test/i })
+      ).toBeInTheDocument();
+    });
+  });
+});
