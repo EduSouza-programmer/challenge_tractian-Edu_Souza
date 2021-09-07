@@ -48,7 +48,7 @@ A TRACTIAN foi fundada em 2019 por Igor e Gabriel, que viram a vida inteira seus
 
 A proposta é que todos os profissionais de manutenção tenham acesso ao monitoramento online de equipamentos, e a uma plataforma “braço direito” que analisa, fornece insights valiosos, otimiza rotinas e permite tomada de decisões de forma prática e eficaz.
 
-Tive a oportunidade de participar do processo seletivo onde o `Desafio Web Developer TRACTIAN Maio/21` era construir uma landing page da página inicial da Tractian, inspirado no seu site atual e no site da Cobli.co. Utilizando Next.JS ou React puro (obrigatório). E não esquecendo é claro, o site precisa ser todo responsivo. :muscle:
+Tive a oportunidade de participar do processo seletivo onde o `Desafio Web Developer TRACTIAN Maio/21` era construir uma landing page da página inicial da Tractian, inspirado em seu site atual e no site da Cobli.co. Utilizando Next.JS ou React puro (obrigatório). E não esquecendo é claro, o site precisa ser todo responsivo. :muscle:
 
 
 
