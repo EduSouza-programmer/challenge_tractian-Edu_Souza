@@ -519,7 +519,7 @@
       }
 
       100% {
-        transform: translate();
+        transform: matrix(0.5, 0, 0, 0.5, 99.49099731445312, 384.6099853515625);
       }
     }
 
@@ -712,10 +712,10 @@
         transform: scaleY(2);
       }
       75% {
-        transform: scaleY();
+        transform: scaleY(0.5);
       }
       100% {
-        transform: scaleY();
+        transform: matrix(1,0,0,1,215.9720001220703,443.6510009765625);
         opacity: 0.4;
       }
     }
