@@ -1,8 +1,8 @@
-<!-- deploy fdfsfs -->
-<!-- <br/>
+
+<br/>
 
 <h5 align="center">
-  <img align="center" alt="Imagem Zapt" src="./public/img/zapt.svg" width="400px" />
+  <img align="center" alt="Imagem Zapt" src="./public/img/logo.svg" width="400px" />
 </h5>
 
 <br/>
@@ -53,21 +53,30 @@ Abaixo segue os links. :smile:
 #### Screenshots / Gif's:
 
 <details>
-<summary>GIF's</summary>
+<summary>GIF's :+1:</summary>
 <br/>
 <p align=center>Suporte para 320px ~ 1920px</p>
 <p align=center >
-  <img height="500px"  src="./public/img/home_desktop.gif"> &nbsp; &nbsp;
+  <img height="500px"  src="./public/img/readme/home_desktop.gif"> &nbsp; &nbsp;
 </p>
 
 <br/>
 
 <p align=center>Animações de entradas</p>
   <p align=center >
-    <img height="235px"  src="./public/img/mobile1.gif"> &nbsp; &nbsp; 
-    <img height="235px"  src="./public/img/mobile2.gif"> &nbsp; &nbsp;
-    <img height="210px"  src="./public/img/home_desktop2.gif"> 
+    <img height="235px"  src="./public/img/readme/mobile1.gif"> &nbsp; &nbsp; 
+    <img height="235px"  src="./public/img/readme/mobile2.gif"> &nbsp; &nbsp;
+    <img height="210px"  src="./public/img/readme/home_desktop2.gif"> 
+    <img height="210px"  src="./public/img/readme/home_desktop3.gif"> 
   
+  </p>
+
+  <br/>
+
+  <p align=center>Page overview</p>
+  <p align=center >
+    <img height="210px"  src="./public/img/readme/overview_desktop.png"> &nbsp; &nbsp; 
+    <img height="235px"  src="./public/img/readme/overview_mobile.png"> &nbsp; &nbsp;
   </p>
 </details>
 
@@ -75,8 +84,8 @@ Abaixo segue os links. :smile:
 <br/>
 
 <p align=center >
-  <img height="210px"  src="./public/img/home_desktop.png"> &nbsp; &nbsp;
-  <img height="235px" src="./public/img/mobile.png">
+  <img height="210px"  src="./public/img/readme/home_desktop.png"> &nbsp; &nbsp;
+  <img height="235px" src="./public/img/readme/mobile.png">
 </p>
 
 <br/>
@@ -154,4 +163,4 @@ Acesse o deploy do storybook [aqui](https://edu-zapt-storybook.netlify.app/?path
 ## :unlock: Licença
 
 Este projeto está licenciado sob a Licença MIT - consulte [LICENSE](https://opensource.org/licenses/MIT) para maiores detalhes.
- -->
+ 

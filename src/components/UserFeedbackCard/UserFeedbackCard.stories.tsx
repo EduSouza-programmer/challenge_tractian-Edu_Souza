@@ -77,7 +77,7 @@ export default {
       defaultViewport: "figmaMobile",
     },
     backgrounds: {
-      default: "dark",
+      default: "light",
     },
     layout: "fullscreen",
     controls: { sort: "requiredFirst" },
