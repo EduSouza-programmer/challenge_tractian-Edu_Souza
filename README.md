@@ -46,9 +46,9 @@
 
 A TRACTIAN foi fundada em 2019 por Igor e Gabriel, que viram a vida inteira seus pais, coordenadores de manutenção, saindo de madrugada para resolver problemas nas fábricas. Ambos desde cedo trabalharam em indústrias, onde aprenderam a programar, até que criaram a primeira versão do sensor e da plataforma de monitoramento de máquinas que existe hoje.
 
-A proposta é todos os profissionais de manutenção tenham acesso ao monitoramento online de equipamentos, e a uma plataforma “braço direito” que analisa, fornece insights valiosos, otimiza rotinas e permite tomada de decisões de forma prática e eficaz.
+A proposta é que todos os profissionais de manutenção tenham acesso ao monitoramento online de equipamentos, e a uma plataforma “braço direito” que analisa, fornece insights valiosos, otimiza rotinas e permite tomada de decisões de forma prática e eficaz.
 
-Tive a oportunidade de participar do processo seletivo onde o `Desafio Web Developer TRACTIAN Maio/21` era construir uma landing page da página inicial da Tractian em localhost, apenas a página inicial, inspirado no seu site atual e no site da Cobli.co. Utilizando Next.JS ou React puro (obrigatório).
+Tive a oportunidade de participar do processo seletivo onde o `Desafio Web Developer TRACTIAN Maio/21` era construir uma landing page da página inicial da Tractian em localhost, apenas a página inicial, inspirado no seu site atual e no site da Cobli.co. Utilizando Next.JS ou React puro (obrigatório). E não esquecendo é claro, o site precisa ser todo responsivo. :muscle:
 
 
 
@@ -117,7 +117,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## :postbox: Entrega
 
 Para executar o projeto basta seguir os passos abaixo.
-#### Run :clipboard:
+#### Run :eyes:
 
 
 1. Clone o repositório e abra a pasta dele:
@@ -151,7 +151,7 @@ $ yarn storybook
 
 #### Concluído :clipboard: 
 
-Foi enriquecedor esse desafio, fiquei impressionado com a proposta da Tractian, sou também técnico eletrista e migrei de profissão a dois anos atrás, mas confesso que fiquei curioso com a tecnologia. Espero muito poder fazer parte da equipe. Mais uma vez, obrigado pela oportunidade! Abaixo o link para o deploy :smile: 
+Foi enriquecedor esse desafio, fiquei impressionado com a proposta da Tractian, sou também técnico eletrista e migrei de profissão a dois anos atrás, mas confesso que fiquei curioso com a tecnologia. Espero muito poder fazer parte da equipe. Mais uma vez, obrigado pela oportunidade! Abaixo o link para o deploy :tada:. 
 
 Acesse o deploy do projeto [aqui](https://challenge-zapt-refactory-edu-souza-deploy-fm6pmtnhw.vercel.app/).
 
