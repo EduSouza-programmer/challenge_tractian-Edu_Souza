@@ -3,9 +3,9 @@ import { UserFeedbackCardProps } from "./UserFeedbackCard.types";
 export default {
   user: {
     image: {
-      src: "./img/userFeedback/eduarda.png",
+      src: "/img/userFeedback/eduarda.png",
       alt: "",
-      dataBlur: "./img/userFeedback/eduarda.png",
+      dataBlur: "/img/userFeedback/eduarda.png",
     },
     size: "xsmall",
     borderColor: "blue",
