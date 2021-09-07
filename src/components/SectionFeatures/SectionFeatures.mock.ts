@@ -7,7 +7,7 @@ export default {
   cardFeatures: [
     {
       imageIcon: {
-        src: "./img/iconCards/icon-maintence-plataform.svg",
+        src: "/img/iconCards/icon-maintence-plataform.svg",
         alt: "Desenho de um tela de monitor com uma chave inglesa",
       },
       title: "Manutenção Preditiva",
@@ -17,7 +17,7 @@ export default {
 
     {
       imageIcon: {
-        src: "./img/iconCards/icon-maintence-horimeter.svg",
+        src: "/img/iconCards/icon-maintence-horimeter.svg",
         alt: "",
       },
       title: "Automação de OS",
@@ -26,7 +26,7 @@ export default {
     },
     {
       imageIcon: {
-        src: "./img/iconCards/icon-maintence-online.svg",
+        src: "/img/iconCards/icon-maintence-online.svg",
         alt: "",
       },
       title: "Monitoramento Online",
@@ -35,7 +35,7 @@ export default {
     },
     {
       imageIcon: {
-        src: "./img/iconCards/icon-maintence-pump.svg",
+        src: "/img/iconCards/icon-maintence-pump.svg",
         alt: "",
       },
       title: "Setup Instantâneo",

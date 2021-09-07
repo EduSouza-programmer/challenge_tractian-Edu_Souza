@@ -2,9 +2,9 @@ import { UserFeedbackBaseProps } from "./UserFeedbackBase.types";
 
 export default {
   image: {
-    src: "./img/userFeedback/eduarda.png",
+    src: "/img/userFeedback/eduarda.png",
     alt: "",
-    dataBlur: "./img/userFeedback/eduarda.png",
+    dataBlur: "/img/userFeedback/eduarda.png",
   },
   size: "large",
   borderColor: "blue",
@@ -18,9 +18,9 @@ export default {
 
 export const example1 = {
   image: {
-    src: "./img/userFeedback/rene.png",
+    src: "/img/userFeedback/rene.png",
     alt: "",
-    dataBlur: "./img/userFeedback/rene.png",
+    dataBlur: "/img/userFeedback/rene.png",
   },
   size: "large",
   borderColor: "blue",
@@ -34,9 +34,9 @@ export const example1 = {
 
 export const example2 = {
   image: {
-    src: "./img/userFeedback/pedro.png",
+    src: "/img/userFeedback/pedro.png",
     alt: "",
-    dataBlur: "./img/userFeedback/pedro.png",
+    dataBlur: "/img/userFeedback/pedro.png",
   },
   size: "large",
   borderColor: "blue",
