@@ -8,13 +8,13 @@
 <br/>
 
 <h3 align="center">
-  Desafio Zapt (Refactory) - Edu Souza o/
+  Desafio Tractian - Edu Souza o/
 </h3>
 
-<blockquote align="center">“Aprender é mudar posturas - Platão.”</blockquote>
+<blockquote align="center">“Nunca desista. A vitória pode estar mais próxima do que se imagina!”</blockquote>
 
 <h4 align="center">
-  Repositório - Refatoração do processo seletivo
+  Repositório - Tractian processo seletivo
 </h4>
 
 <br/>
@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-Sobre-o-refactory">Sobre o refactory</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
+  <a href="#rocket-Sobre-o-desafio">Sobre o Desafio</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
   <a href="#-Tecnologias">Tecnologias</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
   <a href="#postbox-Entrega">Entrega</a>&nbsp; &nbsp; |&nbsp; &nbsp; 
   <a href="#unlock-Licença">Licença</a>
@@ -40,20 +40,22 @@
 
 <br/>
 
-## :rocket: Sobre o refactory
+## :rocket: Sobre o desafio
 
-#### Desafio Zapt
+#### Tractian
 
-Sabe quando você fica incomodado com seu desempenho em alguma tarefa ou realizações e sabe que poderia ter feito melhor? Ainda mais... imagine... você é do tipo de pessoa perfeccionista! Sim... fiquei chateado comigo mesmo pois no projeto anterior do "desafio Zapt", sentir que não fui muito bem. Também cometir erros e sentir dificuldades, sinto que em grande parte era o nervosismo.
+A TRACTIAN foi fundada em 2019 por Igor e Gabriel, que viram a vida inteira seus pais, coordenadores de manutenção, saindo de madrugada para resolver problemas nas fábricas. Ambos desde cedo trabalharam em indústrias, onde aprenderam a programar, até que criaram a primeira versão do sensor e da plataforma de monitoramento de máquinas que existe hoje.
 
-Decidir por conta própria e ainda sobretudo visando mais aprendizado, refatorar o desafio que, de penetra :grin: realizei... "mesmo que clandestinamente" srsrsrs e não valendo mais nada, pois o processo seletivo foi encerrado :pensive:, resolvi refazer. :sunglasses:
+A proposta é todos os profissionais de manutenção tenham acesso ao monitoramento online de equipamentos, e a uma plataforma “braço direito” que analisa, fornece insights valiosos, otimiza rotinas e permite tomada de decisões de forma prática e eficaz.
 
-Estou muito feliz pelo resultado da minha refatoração e desempenho! Estruturei melhor o projeto, reformulei os testes, documentei com storybook e fiz animações!
-Abaixo segue os links. :smile: 
+Tive a oportunidade de participar do processo seletivo onde o `Desafio Web Developer TRACTIAN Maio/21` era construir uma landing page da página inicial da Tractian em localhost, apenas a página inicial, inspirado no seu site atual e no site da Cobli.co. Utilizando Next.JS ou React puro (obrigatório).
+
+
+
 #### Screenshots / Gif's:
 
 <details>
-<summary>GIF's :+1:</summary>
+<summary>GIF's <img src="./public/img/readme/wave_hand.gif" width="30px"></summary>
 <br/>
 <p align=center>Suporte para 320px ~ 1920px</p>
 <p align=center >
@@ -114,11 +116,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :postbox: Entrega
 
-Aqui estão as instruções da avaliação do processo seletivo, [link](https://github.com/EduSouza-programmer/challenge_zapt-Edu_Souza/blob/main/instructions/Readme.md).
-#### Concluído :clipboard:
+Para executar o projeto basta seguir os passos abaixo.
+#### Run :clipboard:
 
-
-Para executar o projeto basta seguir os passos abaixo
 
 1. Clone o repositório e abra a pasta dele:
 
@@ -150,6 +150,8 @@ $ yarn storybook
 <br/>
 
 #### Concluído :clipboard: 
+
+Foi enriquecedor esse desafio, fiquei impressionado com a proposta da Tractian, sou também técnico eletrista e migrei de profissão a dois anos atrás, mas confesso que fiquei curioso com a tecnologia. Espero muito poder fazer parte da equipe. Mais uma vez, obrigado pela oportunidade! Abaixo o link para o deploy :smile: 
 
 Acesse o deploy do projeto [aqui](https://challenge-zapt-refactory-edu-souza-deploy-fm6pmtnhw.vercel.app/).
 
