@@ -2,7 +2,7 @@
 <br/>
 
 <h5 align="center">
-  <img align="center" alt="Imagem Zapt" src="./public/img/logo.svg" width="400px" />
+  <img align="center" alt="Imagem Zapt" src="./public/img/logo_readme.svg" width="400px" />
 </h5>
 
 <br/>
